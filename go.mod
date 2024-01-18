@@ -1,4 +1,4 @@
-module mapper
+module go-mapper
 
 go 1.20
 
