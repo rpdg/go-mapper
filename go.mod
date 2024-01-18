@@ -1,4 +1,4 @@
-module go-mapper
+module github.com/rpdg/go-mapper
 
 go 1.20
 
