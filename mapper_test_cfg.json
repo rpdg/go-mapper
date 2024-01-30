@@ -1,0 +1,13 @@
+{
+  "convertors": [
+    {
+      "from": "name",
+      "to": "profile.userName"
+    },
+    {
+      "from": "age",
+      "to": "isTeenager",
+      "render": "return val < 20;"
+    }
+  ]
+}
